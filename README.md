@@ -56,9 +56,7 @@ and enjoy breaking things to understand them deeply.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ymabsout&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymabsout&layout=compact&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ymabsout)](https://git.io/streak-stats)
 ---
 
 ## 🚀 Motto
